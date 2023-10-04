@@ -1,4 +1,4 @@
-# t2-backend-api-reaperayush7
+# Jiffy Backend API NodeJS
 
 1. Clone the project
 
